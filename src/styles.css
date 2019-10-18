@@ -1,0 +1,16 @@
+body,
+html {
+  position: fixed;
+}
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #050005;
+  color: #eee;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
